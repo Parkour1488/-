@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /img
+Disallow: /css
+Allow: /index.html
+Allow: /one.html
+Allow: /two.html
+Allow: /three.html
+Allow: /four.html
+
+Sitemap: https://smitanka.ru/sitemap.xml
